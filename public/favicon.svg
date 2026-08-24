@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Beauty salon icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8d8df" />
+      <stop offset="100%" stop-color="#e37f93" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#g)" />
+  <path d="M32 17c-6.1 0-11 4.9-11 11v4.6c0 2.3 1.9 4.2 4.2 4.2h13.6c2.3 0 4.2-1.9 4.2-4.2V28c0-6.1-4.9-11-11-11z" fill="#fff5f7" />
+  <path d="M24 31.8h16v4.8H24z" fill="#b6365d" />
+  <path d="M27 43h10l-1.8 8H28.8z" fill="#7a213d" />
+</svg>
